@@ -10,7 +10,7 @@
 
 | Title  | Author | Content |
 | :-------------: | :-------------: | :-------------: |
-| PreAlgebra  | Richard Rusczyk, David Patrick, Ravi Boppana  | Arithmetic, Exponents, Elementary Number Theory, Fractions/Decimals/Percents, Equations & Inequalities, Decimals, Ratios, Square Roots, Angles, Right Triangles and Quadrilaterals, Elementary Statistics, Counting |
+| PreAlgebra  | Richard Rusczyk, David Patrick, Ravi Boppana  | Arithmetic, Exponents, Elementary Number Theory, Fractions, Decimals, Percents, Equations & Inequalities, Decimals, Ratios, Square Roots, Angles, Right Triangles and Quadrilaterals, Elementary Statistics, Counting |
 | Introduction to Geometry | Richard Rusczyk | Triangles, Perimeter and Area, Quadrilaterals, Polygons, Circles, 3D Geometry, Transformations, Curved Surfaces, Analytic Geometry, Introduction to Trigonometry | 
 | Introduction to Counting & Probability | David Patrick | |
 | Introduction to Number Theory | Mathew Crawford | |
