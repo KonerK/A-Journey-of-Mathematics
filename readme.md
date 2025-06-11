@@ -1,7 +1,7 @@
-## A Journey of Mathematics
+# A Journey of Mathematics
 
 
-### Act I - Entering the World of Mathematics
+## Act I - Entering the World of Mathematics
 
 | Introducing Mathematics through The Art of Problem Solving Series |
 |----|
@@ -24,5 +24,8 @@
 | PreCalculus| Richard Rusczyk | |
 | Calculus| David Patrick | |
 
-### Act II - A Stream of Qualificiations & Competitions
+## Act II - The Realm of Physics, Biology, Chemistry, and Science in General
+
+
+## Act III - A Stream of Qualifications & Competitions
 
